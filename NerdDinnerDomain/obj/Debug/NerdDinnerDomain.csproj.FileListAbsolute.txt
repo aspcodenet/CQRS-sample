@@ -1,0 +1,7 @@
+C:\code\Enterprise\NerdDinnerDomain\bin\Debug\NerdDinnerDomain.dll
+C:\code\Enterprise\NerdDinnerDomain\bin\Debug\NerdDinnerDomain.pdb
+C:\code\Enterprise\NerdDinnerDomain\bin\Debug\DomainEventsInfrastructure.dll
+C:\code\Enterprise\NerdDinnerDomain\bin\Debug\DomainEventsInfrastructure.pdb
+C:\code\Enterprise\NerdDinnerDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\code\Enterprise\NerdDinnerDomain\obj\Debug\NerdDinnerDomain.dll
+C:\code\Enterprise\NerdDinnerDomain\obj\Debug\NerdDinnerDomain.pdb

@@ -1,0 +1,20 @@
+2010-07-10 23:05:58 SENDING EMAIL 
+	To:Peter Pan2 Peter.Pan2@1.com
+	From:system info info@testabc123.com
+	Header:You opted in for a dinner
+	Message:You have registered for dinner at Home 2010-07-09 13:22:03
+2010-07-10 23:05:58 SENDING EMAIL 
+	To:Stefan Holmberg Stefan.Holmberg@1.com
+	From:system info info@testabc123.com
+	Header:Someone coming to your dinner
+	Message:Peter Pan2 have registered for the dinner you are arranging at Home 2010-07-09 13:22:03
+2010-07-10 23:11:29 SENDING EMAIL 
+	To:Donald Duck Donald.Duck@1.com
+	From:system info info@testabc123.com
+	Header:You opted in for a dinner
+	Message:You have registered for dinner at Home 2010-07-09 13:22:03
+2010-07-10 23:11:30 SENDING EMAIL 
+	To:Stefan Holmberg Stefan.Holmberg@1.com
+	From:system info info@testabc123.com
+	Header:Someone coming to your dinner
+	Message:Donald Duck have registered for the dinner you are arranging at Home 2010-07-09 13:22:03

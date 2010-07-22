@@ -1,0 +1,6 @@
+C:\code\Enterprise\CommandMessages\bin\Debug\CommandMessages.dll
+C:\code\Enterprise\CommandMessages\bin\Debug\CommandMessages.pdb
+C:\code\Enterprise\CommandMessages\bin\Debug\NServiceBus.dll
+C:\code\Enterprise\CommandMessages\obj\Debug\ResolveAssemblyReference.cache
+C:\code\Enterprise\CommandMessages\obj\Debug\CommandMessages.dll
+C:\code\Enterprise\CommandMessages\obj\Debug\CommandMessages.pdb
