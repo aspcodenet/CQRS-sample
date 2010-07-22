@@ -1,3 +1,7 @@
 Create a database, run the SQL script. You will need to modify connectionstrings accordingly
 
+
+Set multiple startup so GUI, COmmandServer and ReportUpdaterServer starts
+
+
 http://cqrs.aspcode.net
